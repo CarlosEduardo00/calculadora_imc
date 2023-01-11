@@ -9,7 +9,7 @@
 
 ## 🎯 Objetivo
 
-O projeto consiste em desenvolver uma calculadora de IMC, com responsividade para Desktop e Mobile, que retorna o IMC dos dados informados e a classificação que a pessoa se enquadra, de acordo com o resultado do IMC. Dependdendo do resultado, a pessoa vai se enquadrar nas situações abaixo:
+O projeto consiste em desenvolver uma calculadora de IMC, com responsividade para Desktop e Mobile, que retorna o IMC dos dados informados e a classificação que a pessoa se enquadra, de acordo com o resultado do IMC. Dependendo do resultado, a pessoa vai se enquadrar nas situações abaixo:
 
 ![Resultado Classificações (Desktop/mobile)](/img/classificacao.png)
 
